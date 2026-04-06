@@ -2,7 +2,7 @@
   
   Repository link: https://github.com/bujjikai/Threefold-Repetition
   
-  Total hours so far: 65
+  Total hours so far: 68
 
 - [✔] I have a 3D printer or will be getting one before March 21st
 
@@ -67,6 +67,24 @@ Sources (Out of Order):
 - https://youtu.be/_ramiM3KHYE?si=lIFp7r89vbLXX2E2
 - https://voron.dozuki.com/Guide/Mechanics/68
 - https://clevercreations.org/clean-repair-linear-guide-rails/
-  
+
+# April 5th
+
+## Frame
+
+### Approximate Hours: 3
+
+I began assembling the main frame, heavily inspired by the Voron v0 and Hex Zero designs. The primary structure is now mated using blind joints for a clean finish.
+<img width="917" height="795" alt="image" src="https://github.com/user-attachments/assets/4cf6c871-7468-4d2a-932f-cc4dd007ab5d" />
+
+I have also installed the frame rails and the electronics mounting rail; the final rail (not visible) will be integrated during the gantry assembly.
+<img width="1116" height="1022" alt="image" src="https://github.com/user-attachments/assets/8f68424e-f2c4-4212-9b24-f3387a957415" />
+
+
+
+
+
+
+
    
   
