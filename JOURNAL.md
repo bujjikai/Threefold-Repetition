@@ -75,10 +75,12 @@ Sources (Out of Order):
 ### Approximate Hours: 3
 
 I began assembling the main frame, heavily inspired by the Voron v0 and Hex Zero designs. The primary structure is now mated using blind joints for a clean finish.
-<img width="917" height="795" alt="image" src="https://github.com/user-attachments/assets/4cf6c871-7468-4d2a-932f-cc4dd007ab5d" />
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4cf6c871-7468-4d2a-932f-cc4dd007ab5d" />
 
 I have also installed the frame rails and the electronics mounting rail; the final rail (not visible) will be integrated during the gantry assembly.
-<img width="1116" height="1022" alt="image" src="https://github.com/user-attachments/assets/8f68424e-f2c4-4212-9b24-f3387a957415" />
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8f68424e-f2c4-4212-9b24-f3387a957415" />
 
 
 
