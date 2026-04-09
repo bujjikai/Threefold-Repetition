@@ -102,7 +102,11 @@ Current needs to reduce print time
 - high volumetric flowrate on hotend
 - high melt rate filament
 
+# April 8th
 
+## Motion
+
+### Approximate Hours: 
 
 
 
