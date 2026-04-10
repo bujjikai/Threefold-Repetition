@@ -2,7 +2,7 @@
   
   Repository link: https://github.com/bujjikai/Threefold-Repetition
   
-  Total hours so far: 68
+  Total hours so far: 79
 
 - [✔] I have a 3D printer or will be getting one before March 21st
 
@@ -63,7 +63,7 @@ Sources (Out of Order):
 - https://voron.dozuki.com/Guide/Mechanics/68
 - https://clevercreations.org/clean-repair-linear-guide-rails/
 
-# April 5th
+# April 5th (Day 1)
 
 ## Frame
 
@@ -77,7 +77,7 @@ I have also installed the frame rails and the electronics mounting rail; the fin
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/8f68424e-f2c4-4212-9b24-f3387a957415" />
 
-# April 6th
+# April 6th (Day 2)
 
 ## Z Axis
 
@@ -102,11 +102,32 @@ Current needs to reduce print time
 - high volumetric flowrate on hotend
 - high melt rate filament
 
-# April 8th
+# April 7-9th (Day 3)
 
 ## Motion
 
-### Approximate Hours: 
+### Approximate Hours: 8
+
+I finished modeling everything that is needed for the Z-axis, I decided to go with a belt driven z axis instead of using lead screws like normal, due to the compactness of my frame which means that I have less space to fit 3 lead screws in. The current bed mounting I have made isn't fulyl kinematic, but I will iterate on it after I finish the whols printer's cad so I have a better idea of what is needed.
+
+TODO: Add tensioning for the rear Z axis belt, and make the mounting to the frame more rigid
+Currently there is only plastic holding the top pulley bearing up, so it might need to be more rigid for high speed motions
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/09bd0b51-8ca6-4880-a49d-aacd1bb2fac8" />
+
+I did a bit more research for high speed portion of my printer and came to some unfortunate realizations.
+- Back EMF: Since I am only using 24v motors and cheap ones at that, it is likely that they have a high inductance, which is going to put a hard cap to the accelerations I can push
+- Layer time: Since this is such a small printer, there is a chance that for small parts the previous layer won't have enough time to solidfy, so the printer might slow down between layers
+
+Despite these 2 potential issues, I think I can still make this work.
+I am also currently considering using AWD (4 motors instead of 2) to increase the speed of the xy gantry, not sure if it is feasible though, the small 150W PSU might not be enough.
+
+
+
+
+
+
+
 
 
 
