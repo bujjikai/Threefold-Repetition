@@ -2,7 +2,7 @@
   
   Repository link: https://github.com/bujjikai/Threefold-Repetition
   
-  Total hours so far: 79
+  Total hours so far: 76
 
 - [✔] I have a 3D printer or will be getting one before March 21st
 
@@ -106,7 +106,7 @@ Current needs to reduce print time
 
 ## Motion
 
-### Approximate Hours: 8
+### Approximate Hours: 5
 
 I finished modeling everything that is needed for the Z-axis, I decided to go with a belt driven z axis instead of using lead screws like normal, due to the compactness of my frame which means that I have less space to fit 3 lead screws in. The current bed mounting I have made isn't fulyl kinematic, but I will iterate on it after I finish the whols printer's cad so I have a better idea of what is needed.
 
@@ -122,6 +122,16 @@ I did a bit more research for high speed portion of my printer and came to some 
 Despite these 2 potential issues, I think I can still make this work.
 I am also currently considering using AWD (4 motors instead of 2) to increase the speed of the xy gantry, not sure if it is feasible though, the small 150W PSU might not be enough.
 
+
+
+# April 10th (Day 4)
+
+## Tool Head and Finishing Touches
+
+### Approximate Hours: 
+
+Finished the BOM, came out to be about $100 out of pocket: https://docs.google.com/spreadsheets/d/1j4znOd9m_fiep61QqaDtQZj5eCEWoa6pIB-WBLW0eJE/edit?gid=0#gid=0
+I'll try to work on reducing the cost later, but the issue in this case is that cheap components won't work as certain parts such as the rails, motors and extrusions need to be atleast middling quality to be able to push for high speeds and accelerations.
 
 
 
